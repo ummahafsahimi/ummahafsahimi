@@ -20,10 +20,10 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 
 ## 🛠️ Tech Stack  
 **Cloud & Infra:** AWS · Terraform · Ansible · Kubernetes · Docker  
-**CI/CD:** GitHub Actions · Jenkins · ArgoCD  
-**Languages:** Python · Bash · SQL  
+**CI/CD:** GitHub Actions · Jenkins 
+**Languages:** Python · Bash · Groovy · Java · Go (Learning)  
 **Monitoring:** Prometheus · Grafana  
-**GIS:** GDAL · Rasterio · ESRI · SNAP · QGIS  
+**GIS:** GDAL · ESRI · SNAP · QGIS · ArcGIS
 
 ---
 
