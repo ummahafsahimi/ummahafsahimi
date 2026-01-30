@@ -48,17 +48,13 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 - related to Java or Mysql applications to the developer team's Slack channel and
 - related to the Nginx Ingress Controller or K8s components to K8s administrator's email address.
 
-## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=UmmaHafsaHimi&show_icons=true&theme=radical)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmmaHafsaHimi&layout=compact&theme=radical)
-
 ---
 
 ## 📫 How to reach me:  
 **Portfolio:** https://github.com/ummahafsahimi  
 **LinkedIn:** https://linkedin.com/in/umma-hafsa-himi  
 
-
+---
 
 <!--
 **ummahafsahimi/ummahafsahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
