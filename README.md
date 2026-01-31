@@ -52,7 +52,7 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 
 ## 🌱 I’m currently learning
 
-Golang, MLops Basics
+Golang, MLops with AWS
 
 ---
 
