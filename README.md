@@ -2,14 +2,14 @@
 ## This is Himi — DevOps & Geospatial Engineer  
 
 I design elegant, scalable infrastructure and build automation that removes friction from engineering teams.  
-My background blends **DevOps, Cloud, CI/CD, Kubernetes, IaC, Linux, Python automation, and advanced SAR/InSAR analytics** — a mix that lets me solve problems from both a systems and data perspective.
+My background blends **DevOps, Cloud, CI/CD, Linux, Python automation, and advanced SAR/InSAR analytics** — a mix that lets me solve problems from both a systems and data perspective.
 
 I love creating clean pipelines, intuitive workflows, and infrastructure that feels effortless.
 
 ---
 
 ## 🚀 What I Do
-- Cloud-native DevOps (AWS, Terraform, Kubernetes, Docker)
+- Cloud-native DevOps (AWS, Terraform, Kubernetes, Docker, Ansible, Prometheus)
 - CI/CD pipelines that scale with teams
 - Python automation for infrastructure + geospatial workflows
 - Monitoring & observability (Prometheus, Grafana)
@@ -19,11 +19,11 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 ---
 
 ## 🛠️ Tech Stack  
-**Cloud & Infra:** AWS · Terraform · Ansible · Kubernetes · Docker  
+**Cloud & Infra:** AWS · Terraform · Ansible · Kubernetes · Docker
 **CI/CD:** GitHub Actions · Jenkins  
 **Languages:** Python · Bash · Groovy · Java · Go (Learning)  
 **Monitoring:** Prometheus · Grafana  
-**GIS:** GDAL · ESRI · SNAP · QGIS · ArcGIS
+**GIS:** GDAL · ESRI · Google Earth · SNAP · QGIS · ArcGIS
 
 ---
 
@@ -45,8 +45,14 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 ## 🔭 I’m currently working on:
 
 **Prometheus Project:** Configure alert manager to send all issues:
-- related to Java or Mysql applications to the developer team's Slack channel and
-- related to the Nginx Ingress Controller or K8s components to K8s administrator's email address.
+- related to Java or MySQL applications to the developer team's Slack channel and
+- related to the Nginx Ingress Controller or K8s components to the K8s administrator's email address.
+
+---
+
+## 🌱 I’m currently learning
+
+Golang, MLops Basics
 
 ---
 
