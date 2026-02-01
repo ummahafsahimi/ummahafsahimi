@@ -1,5 +1,5 @@
 ## Hi there 👋
-## This is Himi — DevOps & Geospatial Engineer shipping production‑ready solutions
+## This is Himi — DevOps & Geospatial Engineer, shipping production‑ready solutions
 
 I design elegant, scalable infrastructure and build automation that removes friction from engineering teams.  
 My background blends **DevOps, Cloud, CI/CD, Linux, Python automation, and advanced SAR/InSAR analytics** — a mix that lets me solve problems from both a systems and data perspective.
