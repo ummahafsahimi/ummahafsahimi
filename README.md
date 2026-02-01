@@ -31,22 +31,22 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 - **AWS + Terraform Infrastructure Blueprint**  
   Reusable IaC modules for VPC, EC2, IAM, S3, and EKS.
 
-- **Automated Deployment of Java App, MySQL & phpMyAdmin on AWS EKS**
+- **Automated Deployment of Java App, MySQL & phpMyAdmin on AWS EKS**  
   End‑to‑end deployment of a stateless Java‑Maven app and stateful MySQL/phpMyAdmin workloads on an EKS cluster. Stateful services run on EC2 nodes via Helm, while the Java app runs on Fargate with three replicas. The pipeline uses ECR for images, PVC for MySQL storage, Jenkins for CI/CD automation, and a configured autoscaler to optimize costs.
   
-- **Kubernetes Microservices Deployment with Helm**
+- **Kubernetes Microservices Deployment with Helm**  
   Deployed a Google‑based online boutique microservices app to a Linode LKE cluster using Helm. Focused on service‑to‑service connectivity, production‑grade configuration, and DevOps best practices for security and reliability.
 
-- **Website Monitoring & Auto‑Recovery with Python**
+- **Website Monitoring & Auto‑Recovery with Python**  
    A Python-based monitoring script that checks application health on a Linode server, sends email alerts on connection issues, and automatically restarts the container to restore service availability.
 
-- **Infrastructure as Code with Terraform — EKS Cluster + MySQL + CI/CD**
+- **Infrastructure as Code with Terraform — EKS Cluster + MySQL + CI/CD**  
    Automated provisioning of multi‑environment EKS clusters with Helm‑based MySQL deployment, remote state (S3 bucket), and a dedicated Jenkins pipeline.
 
-- **Ansible Integration in Jenkins**
+- **Ansible Integration in Jenkins**  
   CI/CD‑driven automation pipeline integrating Ansible with Jenkins. The workflow provisions and configures AWS EC2 servers, installing Docker and Docker Compose across multiple instances as part of the automated deployment process.
 
-- **Kubernetes CI/CD Capstone Project: AWS EKS & ECR**
+- **Kubernetes CI/CD Capstone Project: AWS EKS & ECR**  
   End‑to‑end Jenkins pipeline that versions a Java‑Maven app, builds and pushes Docker images to ECR, deploys to EKS, and commits version updates back to Git.
 
 ---
