@@ -1,5 +1,5 @@
 ## Hi there 👋
-## This is Himi — DevOps & Geospatial Engineer, shipping production‑ready solutions
+## This is Himi — DevOps & Geospatial Engineer, ships production‑ready solutions
 
 I design elegant, scalable infrastructure and build automation that removes friction from engineering teams.  
 My background blends **DevOps, Cloud, CI/CD, Linux, Python automation, and advanced SAR/InSAR analytics** — a mix that lets me solve problems from both a systems and data perspective.
@@ -15,15 +15,6 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 - Monitoring & observability (Prometheus, Grafana)
 - SAR/InSAR & multispectral image processing
 - Technical project leadership and mentoring
-
----
-
-## 🛠️ Tech Stack  
-**Cloud & Infra:** AWS · Terraform · Ansible · Kubernetes · Docker
-**CI/CD:** GitHub Actions · Jenkins  
-**Languages:** Python · Bash · Groovy · Java · Go (Learning)  
-**Monitoring:** Prometheus · Grafana  
-**GIS:** GDAL · ESRI · Google Earth · SNAP · QGIS · ArcGIS
 
 ---
 
@@ -48,6 +39,15 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 
 - **Kubernetes CI/CD Capstone Project: AWS EKS & ECR**  
   End‑to‑end Jenkins pipeline that versions a Java‑Maven app, builds and pushes Docker images to ECR, deploys to EKS, and commits version updates back to Git.
+
+---
+
+## 🛠️ Tech Stack  
+**Cloud & Infra:** AWS · Terraform · Ansible · Kubernetes · Docker
+**CI/CD:** GitHub Actions · Jenkins  
+**Languages:** Python · Bash · Groovy · Java · Go (Learning)  
+**Monitoring:** Prometheus · Grafana  
+**GIS:** GDAL · ESRI · Google Earth · SNAP · QGIS · ArcGIS
 
 ---
 
