@@ -43,7 +43,7 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 ---
 
 ## 🛠️ Tech Stack  
-**Cloud & Infra:** AWS · Terraform · Ansible · Kubernetes · Docker
+**Cloud & Infra:** AWS · Linode · Terraform · Ansible · Kubernetes · Docker  
 **CI/CD:** GitHub Actions · Jenkins  
 **Languages:** Python · Bash · Groovy · Java · Go (Learning)  
 **Monitoring:** Prometheus · Grafana  
