@@ -13,7 +13,7 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 - CI/CD pipelines that scale with teams
 - Python automation for infrastructure + geospatial workflows
 - Monitoring & observability (Prometheus, Grafana)
-- SAR/InSAR & multispectral image processing
+- ML application on SAR/InSAR & multispectral image processing
 - Technical project leadership and mentoring
 
 ---
