@@ -9,10 +9,10 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 ---
 
 ## 🚀 What I Do
-- Cloud-native DevOps (AWS, Terraform, Kubernetes, Docker, Ansible, Prometheus)
+- Cloud-native DevOps (AWS, AZURE, GCP, Terraform, Kubernetes, Docker, Ansible, Prometheus)
 - CI/CD pipelines that scale with teams
 - Python automation for infrastructure + geospatial workflows
-- Monitoring & observability (Prometheus, Grafana)
+- Monitoring & observability (ArgoCD, Prometheus, Grafana)
 - ML application on SAR/InSAR & multispectral image processing
 - Technical project leadership and mentoring
 
@@ -59,9 +59,9 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 
 ---
 
-## 🌱 I’m currently learning
+## 🌱 I'm currently learning
 
-Golang, MLops with AWS
+Started my 100days of MLOps journey with KodeKloud
 
 ---
 
