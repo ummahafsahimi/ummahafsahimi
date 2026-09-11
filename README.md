@@ -61,7 +61,7 @@ I love creating clean pipelines, intuitive workflows, and infrastructure that fe
 
 ## 🌱 I'm currently learning
 
-Started my 100days of MLOps journey with KodeKloud
+Studying to secure my Azure DevOps badge (AZ 104, AZ 400)
 
 ---
 
