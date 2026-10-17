@@ -10,17 +10,24 @@ Previously: Project Manager + Data Analyst at 3vGeomatics (Vancouver) — led mo
 
 ## 🚀 Featured projects
 
-**🤖 Python Job Application AI Agent** *(my product experiment — in progress)*
-Job hunting across a dozen sites is manual, and ghost jobs waste everyone's time. I scoped the problem, defined an MVP (track applications → alert on matches → detect ghost jobs), and started building the collector in Python. Decisions and roadmap live in the repo.
-
-**☁️ Cloud-Native SaaS Platform — full DevOps automation**
+**☁️ [Cloud-Native SaaS Platform](https://github.com/ummahafsahimi/A-Cloude-Native-SaaS-Platform-with-Full-DevOps-Automation) — full DevOps automation**
 Planned and built a production-style platform end to end: containerized services, infrastructure as code, CI/CD pipelines, and observability. The full lifecycle, delivered solo.
 
-**🏗️ IaC with Terraform — EKS clusters + MySQL + CI/CD**
+**🏗️ [IaC with Terraform](https://github.com/ummahafsahimi/IaC-with-Terraform-EKScluster-MySQL-CICD) — EKS clusters + MySQL + CI/CD**
 Automated provisioning of multi-environment EKS clusters: Helm-deployed MySQL, S3 remote state, dedicated Jenkins pipeline. Reusable modules for VPC, EC2, IAM, S3, and EKS.
 
-**📈 Monitoring with Prometheus & Grafana**
-Kubernetes monitoring stack with alert routing — metrics, dashboards, and notifications wired end to end. Currently extending: Alertmanager → Slack for app issues, email for cluster issues.
+**🎛️ [Kubernetes Helm Microservices](https://github.com/ummahafsahimi/Kubernetes-Helm-Microservices)**
+Deployed Google's Online Boutique microservices app to Kubernetes with Helm — service discovery, connectivity, and production-grade config (network policies, RBAC, secrets). Shared Helm charts keep every service's deployment consistent and repeatable.
+
+**⚖️ [EKS Autoscaling](https://github.com/ummahafsahimi/Autoscaling-EKS-stateful-stateless-app) — stateful & stateless, cost-optimized**
+Ran stateful and stateless workloads side by side on EKS: MySQL/phpMyAdmin on EC2 nodes with persistent volumes, Java app on Fargate with autoscaling. Resources scale with demand instead of sitting idle.
+
+**🔄 [EKS + ECR CI/CD Pipeline](https://github.com/ummahafsahimi/EKS-ECR-Integration-in-CICD-pipeline)**
+Jenkins pipeline taking a Java/Maven app from commit to cluster: versioned builds, Docker images pushed to ECR, automated EKS deploys — then commits the version bump back to Git. Zero manual steps.
+
+**🔧 [Ansible + Jenkins Automation](https://github.com/ummahafsahimi/Ansible-integration-in-CICD-pipeline)**
+Jenkins pipeline driving Ansible to provision AWS EC2 instances and install Docker/Docker Compose across all of them. Idempotent playbooks — re-runnable with the same result every time.
+
 
 ## 🛠️ Technical depth
 **Cloud & IaC:** AWS · Azure · GCP · Linode · Terraform · Ansible · Kubernetes · Docker
