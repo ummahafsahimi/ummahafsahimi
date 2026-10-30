@@ -2,7 +2,7 @@
 
 PMP®-certified project manager (5 years) who has owned end-to-end delivery of technical programs — and can go deep with engineering teams on the *how*, not just the *what*.
 
-- 📦 **Delivery leadership:** planning, RAID, stakeholder management, SLA-driven releases across concurrent programs — 100% on-time delivery, ~$1M+ in renewed contracts
+- 📦 **Delivery leadership:** planning, RAID, stakeholder management, SLA-driven releases across concurrent projectss — 100% on-time delivery, ~$1M+ in renewed contracts
 - 🛠️ **Technical depth:** Python, Linux, Kubernetes, Terraform, Ansible, CI/CD (Jenkins, GitHub Actions), AWS / Azure / GCP
 - 📊 **Building product muscle:** BCIT Healthcare Product Management · UBC AI in Product Management bootcamp (OKRs, discovery, roadmapping)
 
